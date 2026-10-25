@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Raghukul Fee System</title>
+</head>
+<body>
+    <h1>Welcome to Raghukul Fee System</h1>
+    <p>School Fee Management System</p>
+</body>
+</html>
